@@ -2,8 +2,8 @@
 ## Comment installer le projet
 
 - Clôner depuis GIT HUB
-    - Via SSH: git@github.com:garoNits/J2BCamp.git
-    - Via HTTPS: https://github.com/garoNits/J2BCamp.git
+    - Via SSH: git@github.com:Nemestos/J2BCamp.git
+    - Via HTTPS: https://github.com/Nemestos/J2BCamp.git
 - Compose le docker
 
     - ### _Depuis Linux_
